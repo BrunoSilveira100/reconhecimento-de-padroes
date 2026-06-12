@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.uv-cache/
+.uv-python/
+.pytest_cache/
+resultados/*
+!resultados/.gitkeep
+relatorio/*
+!relatorio/.gitkeep
