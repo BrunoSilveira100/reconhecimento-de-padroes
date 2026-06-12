@@ -1,4 +1,4 @@
-# Da Criação da Imagem ao Reconhecimento de Padrões
+Processamento Digital de Imagens, Reconhecimento de Padrões.
 
 Projeto acadêmico de Processamento Digital de Imagens que implementa um fluxo completo para leitura, diagnóstico, correção, processamento, segmentação e reconhecimento de formas geométricas.
 
